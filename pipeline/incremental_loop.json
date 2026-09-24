@@ -326,7 +326,6 @@
 					{
 						"activity": "ForLoop",
 						"dependencyConditions": [
-							"Succeeded",
 							"Failed"
 						]
 					}
